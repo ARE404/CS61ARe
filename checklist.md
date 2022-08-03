@@ -1,0 +1,13 @@
+- [x] Lab00
+- [x] Book ch 1.1 1.2
+- [x] HW 01
+- [x] Book ch 1.3 1.4 1.5
+- [x] Lab 01
+- [x] Book ch 1.6   //7.28
+- [ ] Disc 01
+- [ ] Hog
+- [ ] HW 02
+- [ ] Lab 02
+- [ ] Disc 02
+- [ ] Lab 03
+- [ ] Book ch 1.7
