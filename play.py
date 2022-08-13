@@ -1,6 +1,7 @@
 from math import sqrt
 from operator import add
 from functools import reduce
+from re import A
 def sum_naturals(n):
     return reduce(add,range(n,0,-1))
 def sum_cubes(n):
@@ -59,3 +60,9 @@ def print404():
     print("404")
 
 testlambda=lambda x: print404()
+
+# inmutable type
+a=1
+b=a
+b=2
+print("inmutable value a is:",a)

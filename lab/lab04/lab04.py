@@ -96,7 +96,7 @@ def coords(fn, seq, lower, upper):
     [[-2, 4], [1, 1], [3, 9]]
     """
     "*** YOUR CODE HERE ***"
-    return ______
+    return reduce(add,[[[i,fn(i)] for i in seq if lower<=fn(i)<=upper]])
 
 
 def riffle(deck):

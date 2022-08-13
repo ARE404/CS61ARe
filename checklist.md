@@ -3,11 +3,17 @@
 - [x] HW 01
 - [x] Book ch 1.3 1.4 1.5
 - [x] Lab 01
-- [x] Book ch 1.6   //7.28
-- [ ] Disc 01
-- [ ] Hog
-- [ ] HW 02
-- [ ] Lab 02
-- [ ] Disc 02
-- [ ] Lab 03
-- [ ] Book ch 1.7
+- [x] Book ch 1.6  
+- [x] Disc 01
+- [x] HW 02
+- [x] Lab 02
+- [x] Disc 02
+- [x] PJ Hog
+- [x] Lab 03
+- [x] Book ch 1.7
+- [x] HW 03
+- [x] Book ch 2.1
+- [x] Book ch 2.3
+- [ ] Lab 04
+- [ ] Disc 04
+- [ ] PJ Cat
